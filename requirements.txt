@@ -1,0 +1,3 @@
+markovify==0.2.5
+twython==3.3.0
+
